@@ -6,17 +6,17 @@ I'm Alvin, an aspiring Data Analyst with expertise in data processing, analysis 
   - Data analysis and visualisation using Python or Excel Pivot Tables and Dashboards.
   - Developing dashboards on Tableau, PowerBI.
 
-### Projects 📚
+### Projects
 
 Welcome to my portfolio, where I showcase my [projects](https://github.com/AlvinOng98/portfolio).
 
-### Tools 🛠️
+### Tools
 
   - Language: [SQL](https://github.com/AlvinOng98/SQL), [Python](https://github.com/AlvinOng98/Python)
   - Database: MySQL
   - Visualisation: Tableau, PowerBI, Excel
 
-### Connect with me 🤝
+### Connect with me
 
   - [LinkedIn](https://www.linkedin.com/in/alvinong98/)
 
